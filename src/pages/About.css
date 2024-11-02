@@ -1,0 +1,13 @@
+/* About.css */
+.about {
+    text-align: center;
+    padding: 240px;
+    background-color: #f9f3ff;
+  }
+  
+  h2 {
+    color: #7b2cbf;
+    font-family: 'Dancing Script', cursive;
+    font-size: large;
+  }
+  

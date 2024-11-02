@@ -1,0 +1,37 @@
+.gallery {
+  text-align: center;
+  padding: 20px;
+}
+
+
+h2 {
+  font-size: xx-large;
+
+}
+.gallery-images {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.gallery-item {
+  text-align: center;
+}
+
+.galleryimg {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  transition: transform 0.3s;
+}
+
+.galleryimg:hover {
+  transform: scale(1.1);
+}
+
+.caption {
+  margin-top: 8px;
+  font-size: 20px;
+  color: black;
+
+}

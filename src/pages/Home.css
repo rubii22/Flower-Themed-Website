@@ -1,0 +1,14 @@
+.home {
+    background-image: url('/images-flower.webp');
+    background-size:cover;
+    color: #601596;
+    text-align:center;
+    padding: 282px;
+    
+  }
+  
+  h1 {
+    font-family: 'Dancing Script', cursive;
+    color: #6918b0;
+  }
+  
